@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/f1f6b5b0a226b23ea238b48c4dca0778_ps3_03_sol.pdf
+file: /media/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/f1f6b5b0a226b23ea238b48c4dca0778_ps3_03_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps3_03_sol.pdf
 uid: f1f6b5b0-a226-b23e-a238-b48c4dca0778
