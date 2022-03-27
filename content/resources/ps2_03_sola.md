@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4c44ea77-5ab9-04f2-34d9-1945eb78460f
 resourcetype: Document
 title: ps2_03_sola.pdf
 uid: db1e3c55-a52e-7f79-096b-7dfa6d35a80d

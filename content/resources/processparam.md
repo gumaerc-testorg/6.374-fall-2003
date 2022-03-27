@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4c44ea77-5ab9-04f2-34d9-1945eb78460f
 resourcetype: Document
 title: processparam.pdf
 uid: f209be21-df57-f47e-98fc-268d2afdcbab

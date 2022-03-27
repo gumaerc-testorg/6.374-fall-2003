@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: de5b2241-f461-53c8-0c64-75b457e85074
 resourcetype: Document
 title: hspice02.pdf
 uid: 16ffd3d3-befd-c29d-e92c-8fbe38d9cc24

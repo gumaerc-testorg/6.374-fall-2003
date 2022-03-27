@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: de5b2241-f461-53c8-0c64-75b457e85074
 resourcetype: Document
 title: inv_tut.pdf
 uid: d0d64795-4588-f3d0-39b7-adeae57cbc50

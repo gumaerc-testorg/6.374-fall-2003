@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: de5b2241-f461-53c8-0c64-75b457e85074
 resourcetype: Document
 title: cadtutorial_03.pdf
 uid: 674b609b-9153-5023-e250-47539fb3a906
