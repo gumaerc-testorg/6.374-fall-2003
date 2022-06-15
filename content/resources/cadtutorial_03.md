@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/674b609b91535023e25047539fb3a906_cadtutorial_03.pdf
+file: /courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/674b609b91535023e25047539fb3a906_cadtutorial_03.pdf
 file_type: application/pdf
 learning_resource_types:
 - Tools

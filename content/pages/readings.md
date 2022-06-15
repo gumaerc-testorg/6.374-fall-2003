@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'The reading assignments are from chapters in the course textbook: Rabaey,
+  Jan, Anantha Chandrakasan, Bora Nikolic. Digital Integrated Circuits: A Design Perspective.
+  2nd ed. Prentice Hall, 2002.'
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

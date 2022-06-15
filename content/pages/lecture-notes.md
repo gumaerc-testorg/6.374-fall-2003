@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'The lecture notes for this course are closely based on the course textbook:
+  Rabaey, Jan, Anantha Chandrakasan, and Bora Nikolic. Digital Integrated Circuits:
+  A Design Perspective. 2nd ed. Prentice Hall, 2002.'
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
