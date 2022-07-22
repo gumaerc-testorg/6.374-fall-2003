@@ -5,6 +5,7 @@ file: /courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: guidelines.pdf
 uid: 3fd5ad13-46a5-389a-bc54-bd158606a17a
 ---
 Report and Presentation Guidelines
-
