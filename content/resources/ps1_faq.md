@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/4e8d355cbb5c2c012df0f90fd7983248_ps1_faq.pdf
+file_size: 25647
 file_type: application/pdf
 learning_resource_types:
 - Assignments
