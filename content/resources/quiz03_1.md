@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/7979a38e92379d0463a71aa2d98fdb1a_quiz03_1.pdf
+file: /courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/7979a38e92379d0463a71aa2d98fdb1a_quiz03_1.pdf
 file_size: 118038
 file_type: application/pdf
 learning_resource_types:
