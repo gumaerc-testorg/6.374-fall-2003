@@ -14,7 +14,7 @@ The lecture notes for this course are closely based on the course textbook:
 
 Rabaey, Jan, Anantha Chandrakasan, and Bora Nikolic. _Digital Integrated Circuits: A Design Perspective_. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 2002. ISBN: 0130909963.
 
-Use the chapter numbers below to find the slides corresponding to the lecture topics, available on the [textbook web site](http://icbook.eecs.berkeley.edu/resources/powerpoint-slides).
+Use the chapter numbers below to find the slides corresponding to the lecture topics, available on the {{% resource_link "28f6fb6a-620a-4726-a095-c7812e7afae1" "textbook web site" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
