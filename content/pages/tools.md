@@ -21,5 +21,5 @@ HSPICE®
 -------
 
 Basic Usage of HSPICE® and Awaves ({{% resource_link 16ffd3d3-befd-c29d-e92c-8fbe38d9cc24 "PDF" %}})  
-[SPICE Overview Page](http://www.seas.upenn.edu/~jan/spice/spice.overview.html)  
-[Various SPICE models for 0.18µm and 0.25µm Wafers](http://www.mosis.org/test/)
+{{% resource_link "1641f3e4-f6f5-4a4c-8b15-a2ab163af0f8" "SPICE Overview Page" %}}  
+{{% resource_link "630ac68d-7dee-445c-a3f6-528d099d0e2d" "Various SPICE models for 0.18µm and 0.25µm Wafers" %}}
