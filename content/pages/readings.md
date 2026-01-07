@@ -10,7 +10,7 @@ title: Readings
 uid: 9a558f90-3947-d4db-f5d4-2d55246d3bb2
 ---
 
-The reading assignments are from chapters in the {{% resource_link "304173f4-b521-4329-9dc1-0268692018aa" "course textbook" %}}: Rabaey, Jan, Anantha Chandrakasan, and Bora Nikolic. _Digital Integrated Circuits: A Design Perspective_. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 2002. ISBN: 0130909963.
+The reading assignments are from chapters in the [course textbook](http://bwrc.eecs.berkeley.edu/IcBook/): Rabaey, Jan, Anantha Chandrakasan, and Bora Nikolic. _Digital Integrated Circuits: A Design Perspective_. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 2002. ISBN: 0130909963.
 
 {{< tableopen >}}
 {{< theadopen >}}
